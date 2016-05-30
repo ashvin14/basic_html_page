@@ -1,0 +1,43 @@
+.target{
+	border-width:10px;
+	border-style:solid;
+	border-color:black;
+	border-radius:50%;
+	
+	
+}
+.target1{
+	
+	border-width:20px;
+	border-width:10px;
+	border-style:solid;
+	border-color:black;
+	border-radius:20%;
+	
+	
+	
+	
+}
+h2{
+	font-family:cursive;
+	font-size:90px;
+	
+}
+body{
+	background-color:grey;
+	
+	
+}
+a:link{
+	color:black;
+	
+}
+iframe{
+	text-align:center;
+	
+	
+}
+.doubleUnderline{
+	text-decoration:underline;
+    border-bottom: 1px solid #000;
+}
